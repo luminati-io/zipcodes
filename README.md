@@ -11,6 +11,13 @@ Canada zip codes data was taken from here: https://www.aggdata.com/download_samp
 
 It was then transformed into a JSON object and then wrapped with some helper methods.
 
+Lum changes
+-----------
+
+* Update zips (25/05/20)
+* Strip `latitude`, `longtitude`, `coutry` and related code to reduce footprint
+* Strip Canada
+
 Usage
 -----
 
